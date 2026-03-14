@@ -58,7 +58,7 @@ Let's just say I've debugged enough strange systems, unstable environments, and 
 
 ---
 
-### Featured Projects
+## Featured Projects
 
 | Project | Description |
 |---------|-------------|
