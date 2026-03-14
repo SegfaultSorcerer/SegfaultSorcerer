@@ -2,10 +2,15 @@
   <img src="banner.png" alt="Segfault Sorcerer" width="600" />
 </p>
 
-# Hey, I'm Patrik
+# Segfault Sorcerer
 
-**Senior Full-Stack Developer & Team Lead** based in the Frankfurt am Main area, Germany.
-I build robust enterprise software by day and tinker with AI-powered tooling by night. The "Segfault Sorcerer" moniker? Let's just say I've debugged enough core dumps to earn it.
+> Code. Glitches. Wizardry.
+
+Hey, I'm **Patrik** — a **Senior Full-Stack Developer & Team Lead** based near **Frankfurt am Main, Germany**.  
+I build robust enterprise software by day and experiment with AI-powered tooling, automation, and developer workflows by night.
+
+The **Segfault Sorcerer** moniker?  
+Let's just say I've debugged enough strange systems, unstable environments, and mysterious production issues to earn it.
 
 ---
 
@@ -44,11 +49,12 @@ I build robust enterprise software by day and tinker with AI-powered tooling by 
 
 ---
 
-### Currently working on
+## Currently Working On
 
-- Integrating LLMs into enterprise healthcare software using **Spring AI**
-- Intelligent document processing pipelines with **Docling**
-- Exploring the intersection of **FHIR**, pharmaceutical data, and AI-driven automation
+- Integrating **LLMs** into enterprise software workflows
+- Building smarter **document processing** and automation pipelines
+- Exploring **FHIR**, pharmaceutical data, and AI-assisted tooling
+- Improving **developer experience**, architecture, and maintainability in real-world systems
 
 ---
 
@@ -58,6 +64,16 @@ I build robust enterprise software by day and tinker with AI-powered tooling by 
 |---------|-------------|
 | [spring-grimoire](https://github.com/SegfaultSorcerer/spring-grimoire) | A spellbook of Claude Code skills and hooks for the Java/Spring ecosystem |
 | [google-photos-takeout-exif-writer](https://github.com/SegfaultSorcerer/google-photos-takeout-exif-writer) | Java tool to restore EXIF metadata from Google Photos Takeout JSON |
+
+---
+
+## What I Care About
+
+- Clean architecture over accidental complexity
+- Developer tooling that removes friction
+- Software that survives contact with production
+- Practical AI integrations instead of empty hype
+- Systems that are understandable, maintainable, and useful
 
 ---
 
@@ -77,16 +93,23 @@ I build robust enterprise software by day and tinker with AI-powered tooling by 
 
 ---
 
-### About me
+## About Me
 
-M.Sc. Applied Computer Science from the University of Duisburg-Essen. I care about clean architecture, developer experience, and shipping software that actually works in production.
+I hold an **M.Sc. in Applied Computer Science** from the **University of Duisburg-Essen**.  
+I work at the intersection of **enterprise development**, **automation**, and **AI-assisted workflows**.
 
-Fluent in German and English -- and in stack traces.
+Fluent in **German**, **English**, and — on difficult days — **stack traces**.
 
 ---
 
-<sub>
+## Find Me Here
 
-[GitHub](https://github.com/SegfaultSorcerer)
+- [GitHub](https://github.com/SegfaultSorcerer)
 
-</sub>
+<!--
+Optional future additions:
+- Blog / website
+- LinkedIn
+- Talks / presentations
+- Architecture or tooling showcase
+-->
