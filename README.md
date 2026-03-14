@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Segfault Sorcerer" width="600" />
+</p>
+
 # Hey, I'm Patrik
 
 **Senior Full-Stack Developer & Team Lead** based in the Frankfurt am Main area, Germany.
@@ -48,12 +52,27 @@ I build robust enterprise software by day and tinker with AI-powered tooling by 
 
 ---
 
+### Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| [spring-grimoire](https://github.com/SegfaultSorcerer/spring-grimoire) | A spellbook of Claude Code skills and hooks for the Java/Spring ecosystem |
+| [google-photos-takeout-exif-writer](https://github.com/SegfaultSorcerer/google-photos-takeout-exif-writer) | Java tool to restore EXIF metadata from Google Photos Takeout JSON |
+
+---
+
 ### GitHub Stats
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SegfaultSorcerer&show_icons=true&theme=transparent&hide_border=true&icon_color=6DB33F&title_color=6DB33F&text_color=cdd6f4" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=SegfaultSorcerer&show_icons=true&theme=default&hide_border=true" />
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SegfaultSorcerer&show_icons=true&theme=transparent&hide_border=true&icon_color=6DB33F&title_color=6DB33F&text_color=cdd6f4" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=SegfaultSorcerer&theme=transparent&hide_border=true&ring=6DB33F&fire=6DB33F&currStreakLabel=6DB33F&sideLabels=cdd6f4&dates=cdd6f4&currStreakNum=cdd6f4&sideNums=cdd6f4" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=SegfaultSorcerer&theme=default&hide_border=true" />
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SegfaultSorcerer&theme=transparent&hide_border=true&ring=6DB33F&fire=6DB33F&currStreakLabel=6DB33F&sideLabels=cdd6f4&dates=cdd6f4&currStreakNum=cdd6f4&sideNums=cdd6f4" />
 </picture>
 
 ---
@@ -68,6 +87,6 @@ Fluent in German and English -- and in stack traces.
 
 <sub>
 
-[GitHub](https://github.com/SegfaultSorcerer) ・ [Portfolio](# "Coming soon")
+[GitHub](https://github.com/SegfaultSorcerer)
 
 </sub>
