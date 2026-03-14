@@ -14,7 +14,7 @@ Let's just say I've debugged enough strange systems, unstable environments, and 
 
 ---
 
-### Tech Stack
+## Tech Stack
 
 **Backend**
 
@@ -77,7 +77,7 @@ Let's just say I've debugged enough strange systems, unstable environments, and 
 
 ---
 
-### GitHub Stats
+## GitHub Stats
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SegfaultSorcerer&show_icons=true&theme=transparent&hide_border=true&icon_color=6DB33F&title_color=6DB33F&text_color=cdd6f4" />
