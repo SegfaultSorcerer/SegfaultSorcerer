@@ -29,6 +29,8 @@ Let's just say I've debugged enough strange systems, unstable environments, and 
 ![Angular](https://img.shields.io/badge/Angular-1e1e2e?style=flat&logo=angular&logoColor=DD0031)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1e1e2e?style=flat&logo=typescript&logoColor=3178C6)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-1e1e2e?style=flat&logo=html5&logoColor=E34F26)
+![JavaFX](https://img.shields.io/badge/JavaFX-1e1e2e?style=flat&logo=openjdk&logoColor=ed8b00)
+![Swing](https://img.shields.io/badge/Swing-1e1e2e?style=flat&logo=openjdk&logoColor=ed8b00)
 
 **AI & ML**
 
