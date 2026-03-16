@@ -64,6 +64,7 @@ Let's just say I've debugged enough strange systems, unstable environments, and 
 
 | Project | Description |
 |---------|-------------|
+| [gc-exorcist](https://github.com/SegfaultSorcerer/gc-exorcist) | GC log analyzer that turns cryptic data into actionable JVM tuning recommendations |
 | [google-photos-takeout-exif-writer](https://github.com/SegfaultSorcerer/google-photos-takeout-exif-writer) | Java tool to restore EXIF metadata from Google Photos Takeout JSON |
 | [heap-seance](https://github.com/SegfaultSorcerer/heap-seance) | MCP server & CLI toolkit to investigate Java memory leaks with Claude Code |
 | [spring-grimoire](https://github.com/SegfaultSorcerer/spring-grimoire) | A spellbook of Claude Code skills and hooks for the Java/Spring ecosystem |
